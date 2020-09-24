@@ -17,7 +17,14 @@ permalink: /about/
 
 #### 邮箱：1403053171@qq.com
 
-# Header 1
+
+# 自我评价
+1. 本人认真负责、积极主动、能吃苦耐劳，能较好地完成自己的任务与工作。 
+
+1. 本人开朗乐观、热心助人，有较强的交际能力。 
+
+1. 本人为人诚恳、细心、稳重，有良好的团队精神。
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
