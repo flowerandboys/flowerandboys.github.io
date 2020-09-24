@@ -20,7 +20,7 @@ description: "细节决定成败."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
-github_username: 'github.com/flowerandboys'
+github_username: 'flowerandboys'
 medium_username: 'www.cnblogs.com/liyuchao/'
 
 # Build settings
