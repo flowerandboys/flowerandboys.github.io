@@ -16,9 +16,10 @@
 title: "Hello. I'm liyuchao."
 email: '1403053171@qq.com'
 description: "细节决定成败."
-
-twitter_username: 'https://www.cnblogs.com/liyuchao/'
-github_username: 'https://github.com/flowerandboys'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'jamigibbs'
+github_username: 'jamigibbs'
 medium_username: 'blog.jamigibbs.com'
 
 # Build settings
