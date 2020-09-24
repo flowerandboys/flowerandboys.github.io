@@ -1,9 +1,10 @@
 ---
 layout: inner
-title: 关于我
+title: About Myself
 permalink: /about/
 ---
 ## 个人信息
+
 
 #### 姓名：李玉超
 
