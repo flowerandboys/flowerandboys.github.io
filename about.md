@@ -1,15 +1,16 @@
 ---
 layout: inner
-title: About
+title: 关于我
 permalink: /about/
 ---
-## Markdown
+## 个人信息
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](/index.html).
-
-There should be whitespace between paragraphs.
+姓名：李玉超
+性别：男
+出生年月：1998.11.08
+民族：汉
+电话：18203232573
+邮箱：1403053171@qq.com
 
 # Header 1
 
