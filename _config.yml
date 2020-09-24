@@ -17,9 +17,9 @@ title: "Hello. I'm liyuchao."
 email: '1403053171@qq.com'
 description: "细节决定成败."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/flowerandboys" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://github.com/" # the base hostname & protocol for your site, e.g. https://example.com
 boke_username: 'jamigibbs'
-github_username: 'jamigibbs'
+github_username: 'flowerandboys'
 medium_username: 'blog.jamigibbs.com'
 
 # Build settings
